@@ -1,7 +1,7 @@
 {
   "name": "GRIT",
   "short_name": "GRIT",
-  "start_url": "./",
+  "start_url": "/grit-app/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
